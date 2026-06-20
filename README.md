@@ -1,1 +1,142 @@
-PCEtLSBCQU5ORVIgQU5JTUFET0AgLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPTAwMDAwMCwwMDI3NzEsMDA0RkYwLDAwOTFGRiwwMEYyRkYmdGV4dD1Uw7psaW8rU2lsdmEmaGVpZ2h0PTEyMCZmb250U2l6ZT00MCZmb250QWxpZ249NTAmYW5pbWF0aW9uPXR3aW5rbGluZyIgYWx0PSJUw7psaW8gU2lsdmEiIHdpZHRoPSIxMDAlIiAvPgo8L3A+Cgo8IS0tIFNVQlRJVExFIC0tPgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9yZWFkbWUtdHlwaW5nLXN2Zy5oZXJva3VhcHAuY29tP2ZvbnQ9RmlyYStDb2RlJndlaWdodD03MDAmc2l6ZT0yMiZwYXVzZT0xMDAwJmNvbG9yPTAwOTFGRiZjZW50ZXI9dHJ1ZSZ2Q2VudGVyPXRydWUmd2lkdGg9NzAwJmxpbmVzPU1hbmFnZXIrb2YrVGVjaG5vbG9neSslMjYrSW5ub3ZhdGlvbitzQCpTcGluK0VuZ2VuaGFyaWErZGUrQXV0b21hw6fDo28rJTdDK1NDQURBKyU3QytBRE1TKyU3QytJb1QrJTdDK0FJK1NvbHV0aW9ucytmb3IrRW5lcmd5K1NlY3Rvcit8K0VsZWN0cmljYWwrRW5naW5lZXIiIGFsdD0iVHlwaW5nIFNWRyIgLz4KPC9wPgoKPCEtLSBCQURHRVMgU09DSUFJUyAtLT4KPHAgYWxpZ249ImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cubGlua2VkaW4uY29tIiB0YXJnZXQ9Il9ibGFuayI+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW5rZWRJbi0wQTY2QzI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWxpbmtlZGluJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8L2E+CiAgPGEgaHJlZj0ibWFpbHRvOnR1bGlvQHNwaW5lbmcuY29tLmJyIj4KICAgIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0VtYWlsLUQxNDgzNj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z21haWwmbG9nb0NvbG9yPXdoaXRlIiAvPgogIDwvYT4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Mb2NhdGlvbi1CcmFz7WxpYSUyQytCUi0wMDk3M0I/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdvb2dsZS1tYXBzJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TcGluK0VuZ2VuaGFyaWEtMDBBM0ZGP3N0eWxlPWZvci10aGUtYmFkZ2UiIC8+CjwvcD4KCjxicj4KCjwhLS0gQUJPVVQgLS0+CiMjIDxpbWcgc3JjPSJodHRwczovL21lZGlhLmdpcGh5LmNvbS9tZWRpYS9odlJKQ0xGeEFzamMwL2dpcGh5LmdpZiIgd2lkdGg9IjI4Ii8+IFNvYnJlIG1pbQoKYGBgeWFtbApOYW1lOiAgICAgICAgVMO6bGlvIFNpbHZhClJvbGU6ICAgICAgICBNYW5hZ2VyIG9mIFRlY2hub2xvZ3kgJiBJbm5vdmF0aW9uCkNvbXBhbnk6ICAgICBTcGluIEVuZ2VuaGFyaWEgZGUgQXV0b21hw6fDo28gKDMyIHllYXJzIG9mIGV4cGVydGlzZSkKRXhwZXJpZW5jZTogIDEyKyB5ZWFycyBpbiBpbmR1c3RyaWFsIGF1dG9tYXRpb24gJiBlbmVyZ3kgc2VjdG9yCkZvY3VzOiAgICAgICBTQ0FEQSAvIEFETVMgLyBJb1QgLyBBSSBmb3IgZW5lcmd5IG1hbmFnZW1lbnQKRWR1Y2F0aW9uOiAgIEVsZWN0cmljYWwgRW5naW5lZXJpbmcgKFVFTUcpICsgRGF0YSBTY2llbmNlIFNwZWMuCkxhbmd1YWdlczogICBQb3J0dWd1w6pzIOKImCB8IEVuZ2xpc2ggfCBFc3Bhbsm+b2wKYGBgCgo8YnI+CgojIyDwn5WFIEZ1bmPDo28gQXR1YWwKCj4gKipNYW5hZ2VyIG9mIFRlY2hub2xvZ3kgJiBJbm5vdmF0aW9uKiogbmEgU3BpbiBFbmdlbmhhcmlhIGRlIEF1dG9tYcOnw6NvIOKAlCByZXNwb25zw6F2ZWwgcGVsbyBkZXNlbnZvbHZpbWVudG8gZGUgcGxhdGFmb3JtYXMgU0NBREEsIEFETVMsIHNvbHXDp8O1ZXMgSW9UIGUgUCZEIGNvbSBJQSBhcGxpY2FkYSBhbyBzZXRvciBkZSBlbmVyZ2lhIGVsw6l0cmljYS4KCjx0YWJsZT4KPHRyPgo8dGQ+CgojIyMgQXR1YWxtZW50ZSB0cmFiYWxoYW5kbyBlbToKLSDwn5SbICoqR3JpZFEgQURNUyoqIOKAlCBTQ0FEQS9ETVMvT01TIHBhcmEgVVBDTCwgw41uZGlhCi0g8J+UoSAqKkFtcGVyZSoqIOKAlCBQbGF0YWZvcm1hIElBIHBhcmEgbWVyY2FkbyBsaXZyZSBkZSBlbmVyZ2lhCi0g8J+SqSAqKkFjdGlvbkFzc2V0cyoqIOKAlCBGTUVBIGRlIHRyYW5zZm9ybWFkb3JlcyAoSUVDIDYwODEyLzYxODUwKQotIPCfkqEgKipBdGFycmkuYSoqIOKAlCBQbGF0YWZvcm1hIElBIEludGVybmEgU3BpbgoKPC90ZD4KPC90cj4KPC90YWJsZT4KCjxicj4KCiMjIPCfm4ogU3RhY2sgVGVjbm9sw7NnaWNhCgo8IS0tIExJTkhBIDEgLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDwhLS0gTElOR1VBR0VOUyAtLT4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9QeXRob24tMzc3NkFCP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1weXRob24mbG9nb0NvbG9yPXdoaXRlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1R5cGVTY3JpcHQtMDA3QUNDPy1zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dHlwZXNjcmlwdCZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSmF2YVNjcmlwdC1GMERCMjQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWphdmFzY3JpcHQmbG9nb0NvbG9yPWJsYWNrIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1NRTC0wMDc1OEM/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXBvc3RncmVzcWwmbG9nb0NvbG9yPXdoaXRlIiAvPgo8L3A+Cgo8IS0tIExJTkhBIDIgLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDwhLS0gRlJBTUVXT1JLUyAtLT4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9GYXN0QVBJLTA1OTk4NT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289ZmFzdGFwaSZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUmVhY3QtMjFBMUQzP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1yZWFjdCZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTm9kZS5qcy0zOTlBMzU/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW5vZGUuanMmbG9nb0NvbG9yPXdoaXRlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0RvY2tlci0yNDk2RUQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWRvY2tlciZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUG9zdGdyZVNRTC0zMTY3OTI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXBvc3RncmVzcWwmbG9nb0NvbG9yPXdoaXRlIiAvPgo8L3A+Cgo8IS0tIExJTkhBIDMgLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDwhLS0gU0NBREEvSW5kdXN0cmlhbCAtLT4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TQ0FEQS9BRE1TLUZGNjYwMD9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289ZWxlY3RyaWNhbCZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSUVDKzYxODUwLTIzNzhBQT9zdHlsZT1mb3ItdGhlLWJhZGdlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL01RVFQtNjYwMDY2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1lY2xpcHNlLW1vcXVpdHRvJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9NTGZsb3ctMDE5NEU4P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1tbGZsb3cmbG9nb0NvbG9yPXdoaXRlIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dyYWZhbmEtRjQ2ODAwP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1ncmFmYW5hJmxvZ29Db2xvcj13aGl0ZSIgLz4KPC9wPgoKPGJyPgoKPCEtLSBHSVRIVUIgU1RBVFMgLS0+CiMjIPCfk4Agcy10YXRpc3RpY2FzCgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIGhlaWdodD0iMTgwZW0iIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPVR1bGlvc3BpbiZzaG93X2ljb25zPXRydWUmdGhlbWU9dG9reW9uaWdodCZpbmNsdWRlX2FsbF9jb21taXRzPXRydWUmY291bnRfcHJpdmF0ZT10cnVlJmhpZGVfYm9yZGVyPXRydWUiIC8+CiAgPGltZyBoZWlnaHQ9IjE4MGVtIiBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3MvP3VzZXJuYW1lPVR1bGlvc3Bpbiampayb1c2VfY29tcGFjdF9sYXlvdXQ9dHJ1ZSZ0aGVtZT10b2t5b25pZ2h0JmhpZGVfYm9yZGVyPXRydWUiIC8+CjwvcD4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGkvd2FrYXRpbWU/dXNlcm5hbWU9VHVsaW9zcGluJnRoZW1lPXRva3lvbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSZsYXlvdXQ9Y29tcGFjdCIgLz4KPC9wPgoKPGJyPgoKPCEtLSBTVFJFQUsgLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RyZWFrLXN0YXRzLmhlcm9rdWFwcC5jb20vP3VzZXI9VHVsaW9zcGluJnRoZW1lPXRva3lvbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSIgLz4KPC9wPgoKPGJyPgoKPCEtLSBQUk9KRVRPUyBERVNUQVFVRSAtLT4KIyMg8J+agSBQcm9qZXRvcyBkZSBEZXN0YXF1ZQoKPHRhYmxlIHdpZHRoPSIxMDAlIj4KPHRyPgo8dGQgd2lkdGg9IjUwJSIgdmFsaWduPSJ0b3AiPgoKPGgzPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9UdWxpb3NwaW4vYXBpLXJlc3QtcHl0aG9uIj4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLUZhc3RBUEkrUkVTVCtBUEktMDU5OTg1P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289ZmFzdGFwaSIgLz4gYXBpLXJlc3QtcHl0aG9uPC9hPjwvaDM+CgpSRVNUIEFQSSBjb20gRmFzdEFQSSwgUG9zdGdyZVNRTCwgSldUIGUgRG9ja2VyLiBEb2N1bWVudGHDp8OjbyBhdXRvbcOhdGljYSB2aWEgU3dhZ2dlci4KCjwvdGQ+Cjx0ZCB3aWR0aD0iNTAlIiB2YWxpZ249InRvcCI+CgoKPGgzPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9UdWxpb3NwaW4vZGFzaGJvYXJkLXJlYWN0Ij4gPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLVJlYWN0K0Rhc2hib2FyZC0yMUExRDM/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1yZWFjdCIgLz4gZGFzaGJvYXJkLXJlYWN0PC9hPjwvaDM+CgpEYXNoYm9hcmQgbW9kZXJubyBjb20gUmVhY3QsIFR5cGVTY3JpcHQsIFRhaWx3aW5kIGUgZ3LDoWZpY29zIGVtIHRlbXBvIHJlYWwuCgo8L3RkPgo8L3RyPgo8dHI+Cjx0ZCB3aWR0aD0iNTAlIiB2YWxpZ249InRvcCI+CgoKPGgzPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9UdWxpb3NwaW4vbWwtcGlwZWxpbmUiPiA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tTUwrUGlwZWxpbmUtRkY2NjAwP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289cHl0aG9uJmxvZ29Db2xvcj13aGl0ZSIgLz4gbWwtcGlwZWxpbmU8L2E+PC9oMz4KCk1hY2hpbmUgTGVhcm5pbmcgcGlwZWxpbmUgY29tcGxldG8gY29tIFNjaWtpdC1sZWFybiwgUGFuZGFzIGUgTUxmbG93LgoKPC90ZD4KPHRkIHdpZHRoPSI1MCUiIHZhbGlnbj0idG9wIj4KCgoKPGgzPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9UdWxpb3NwaW4vaW90LW1vbml0b3IiPiA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tSW9UK01vbml0b3ItNjYwMDY2P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289ZWNsaXBzZS1tb3F1aXR0byZsb2dvQ29sb3I9d2hpdGUiIC8+IGlvdC1tb25pdG9yPC9hPjwvaDM+CgpNb25pdG9yYW1lbnRvIElvVCBjb20gTVFUVCwgTm9kZS5qcywgSW5mbHV4REIgZSBHcmFmYW5hLgoKPC90ZD4KPC90cj4KPC90YWJsZT4KCjxicj4KCjwhLS0gQUNUSVZJVFkgR1JBUEggLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtYWN0aXZpdHktZ3JhcGgudmVyY2VsLmFwcC9ncmFwaD91c2VybmFtZT1UdWxpb3NwaW4mdGhlbWU9dG9reW8tbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSZhcmVhPXRydWUiIGFsdD0iQWN0aXZpdHkgR3JhcGgiIHdpZHRoPSIxMDAlIiAvPgo8L3A+Cgo8YnI+Cgo8IS0tIEZPT1RFUiAtLT4KPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vY2Fwc3VsZS1yZW5kZXIudmVyY2VsLmFwcC9hcGk/dHlwZT13YXZpbmcmY29sb3I9MDAwMDAwLDAwMjc3MSwwMDRGRjAsMDA5MUZGLDAwRjJGRiZoZWlnaHQ9NjAmc2VjdGlvbj1mb290ZXIiIC8+CjwvcD4K
+<!-- BANNER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,002771,004FF0,0091FF,00F2FF&text=T%C3%BAlio+Silva&height=120&fontSize=40&fontAlign=50&animation=twinkling" alt="Túlio Silva" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0091FF&center=true&vCenter=true&width=700&lines=Manager+of+Technology+%26+Innovation+%40+Spin+Engenharia;SCADA+%7C+ADMS+%7C+IoT+%7C+AI+Solutions+for+Energy+Sector;Electrical+Engineer+%7C+Data+Science+Specialist" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tulio@spineng.com.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Bras%C3%ADlia%2C_BR-009739?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spin_Engenharia-00A3FF?style=for-the-badge" />
+</p>
+
+<br>
+
+## 👋 Sobre mim
+
+```yaml
+Name:        Túlio Silva
+Role:        Manager of Technology & Innovation
+Company:     Spin Engenharia de Automação (32 years of expertise)
+Experience:  12+ years in industrial automation & energy sector
+Focus:       SCADA / ADMS / IoT / AI for energy management
+Education:   Electrical Engineering (UEMG) + Data Science Spec.
+Languages:   Português ★ | English | Español
+```
+
+<br>
+
+## 🏢 Função Atual
+
+> **Manager of Technology & Innovation** na Spin Engenharia de Automação — responsável pelo desenvolvimento de plataformas SCADA, ADMS, soluções IoT e P&D com IA aplicada ao setor de energia elétrica.
+
+### Atualmente trabalhando em:
+- 🔋 **GridQ ADMS** — SCADA/DMS/OMS para UPCL, Índia
+- 💡 **Ampere** — Plataforma IA para mercado livre de energia
+- 🔧 **ActionAssets** — FMEA de transformadores (IEC 60812/61850)
+- 🧠 **Atarri.a** — Plataforma IA Interna Spin
+
+<br>
+
+## 🛠 Stack Tecnológica
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F0DB24?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-00758C?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-059985?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-21A1D3?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-399A35?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316792?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SCADA%2FADMS-FF6600?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEC_61850-2378AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+<br>
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuliospin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuliospin&use_compact_layout=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuliospin&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+## 🚀 Projetos de Destaque
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### [api-rest-python](https://github.com/Tuliospin/api-rest-python)
+
+REST API com FastAPI, PostgreSQL, JWT e Docker. Documentação automática via Swagger.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-059985?style=flat-square&logo=fastapi)
+
+</td>
+<td width="50%" valign="top">
+
+### [dashboard-react](https://github.com/Tuliospin/dashboard-react)
+
+Dashboard moderno com React, TypeScript, Tailwind e gráficos em tempo real.
+
+![React](https://img.shields.io/badge/React-21A1D3?style=flat-square&logo=react)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ml-pipeline](https://github.com/Tuliospin/ml-pipeline)
+
+Machine Learning pipeline completo com Scikit-learn, Pandas e MLflow.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [iot-monitor](https://github.com/Tuliospin/iot-monitor)
+
+Monitoramento IoT com MQTT, Node.js, InfluxDB e Grafana.
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuliospin&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,002771,004FF0,0091FF,00F2FF&height=60&section=footer" />
+</p>
